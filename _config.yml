@@ -1,8 +1,8 @@
 exclude: ['README.md', 'preview.sh', 'Gemfile', 'Gemfile.lock']
 
 # Used to generate the site
-title: "Example Pod"
-title_short: "Example Pod"
+title: "Let The Elders Speak"
+title_short: "Elders Speak"
 email: "your-email@example.com"
 description: "Brief description of your podcast"
 baseurl: "/podcast/" # the subpath of your site, e.g. /blog/
